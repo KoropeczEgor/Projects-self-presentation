@@ -2,6 +2,7 @@ import NavBar from "./components/navBar";
 import Banner from "./components/banner";
 import Contact from "./components/contact";
 import Skills from "./components/skills";
+import Projects from "./components/projects";
 
 import "./bootstrap-4.0.0-dist/css/bootstrap.min.css";
 
@@ -11,7 +12,7 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
-
+      <Projects />
       <Contact />
     </div>
   );
