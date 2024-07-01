@@ -26,31 +26,6 @@ const Projects = () => {
       description: "description",
       imgUrl: projectImg3,
     },
-    {
-      title: "Title",
-      description: "description",
-      imgUrl: projectImg1,
-    },
-    {
-      title: "Title",
-      description: "description",
-      imgUrl: projectImg2,
-    },
-    {
-      title: "Title",
-      description: "description",
-      imgUrl: projectImg3,
-    },
-    {
-      title: "Title",
-      description: "description",
-      imgUrl: projectImg2,
-    },
-    {
-      title: "Title",
-      description: "description",
-      imgUrl: projectImg3,
-    },
   ];
 
   return (
